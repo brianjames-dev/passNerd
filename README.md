@@ -4,34 +4,34 @@ PassNerd is a sleek desktop GUI application that lets users generate secure, cus
 
 ![App Screenshot](images/passNerd_photo.jpg)
 
-## ✨ Features
+## Features
 
-- ✅ **Secure Password Generation**
+- **Secure Password Generation**
   - Customizable character length
   - Include/exclude: lowercase, uppercase, numbers, symbols
   - One-click copy to clipboard
 
-- 📋 **Password Storage**
+- **Password Storage**
   - Label accounts (e.g. Facebook, Amazon, Dropbox)
   - Edit or view stored passwords
   - Toggle password visibility
 
-- 🎨 **Polished UI**
+- **Polished UI**
   - Built with `CustomTkinter` for a modern, dark-themed interface
   - Responsive layout and intuitive controls
 
-- 🔧 **Future Plans**
+- **Future Plans**
   - Encrypted password storage using hashing and/or encryption
   - Master password or keyfile support
   - Export/import saved passwords
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python**
 - **CustomTkinter**
 - **PIL (Pillow)**
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 - Python 3.9+
