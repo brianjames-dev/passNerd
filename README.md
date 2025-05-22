@@ -4,8 +4,6 @@ PassNerd is a sleek desktop GUI application that lets users generate secure, cus
 
 ![App Screenshot](images/passNerd_photo.jpg)
 
----
-
 ## ✨ Features
 
 - ✅ **Secure Password Generation**
@@ -27,15 +25,11 @@ PassNerd is a sleek desktop GUI application that lets users generate secure, cus
   - Master password or keyfile support
   - Export/import saved passwords
 
----
-
 ## 🛠 Tech Stack
 
 - **Python**
 - **CustomTkinter**
 - **PIL (Pillow)**
-
----
 
 ## 🚀 Getting Started
 
