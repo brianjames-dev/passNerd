@@ -2,7 +2,7 @@
 
 PassNerd is a sleek desktop GUI application that lets users generate secure, customizable passwords and store them alongside account labels for easy reference. Designed with usability and flexibility in mind, it features built-in password generation controls, secure storage interface, and a polished, responsive UI.
 
-![App Screenshot](images/passNerd_photo.jpg)
+![App Screenshot](passNerd_photo.jpg)
 
 ## Features
 
